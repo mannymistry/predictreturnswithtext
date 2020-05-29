@@ -13,4 +13,7 @@ Imports:
     tm,
     dplyr,
     purrr,
-    qdap
+    qdap,
+    quanteda,
+    sentometrics,
+    quantmod
